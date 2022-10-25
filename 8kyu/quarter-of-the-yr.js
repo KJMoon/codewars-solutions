@@ -15,3 +15,7 @@ const quarterOf = (month) => {
       return 1;
     };
 };
+
+// Another solution
+
+// const quarterOf = m => Math.ceil(m/3);
